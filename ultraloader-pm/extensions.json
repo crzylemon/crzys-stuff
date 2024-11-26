@@ -3,4 +3,7 @@
     "cst1229zip",
     "pmSensingExpansion",
     "jgTween"
-  ]
+],
+"extensionURLs": {
+    "cst1229zip": "https://extensions.turbowarp.org/CST1229/zip.js"
+}
