@@ -1,0 +1,10 @@
+CLS
+BEEP
+ECHO This is the test file!
+WAIT 1
+ECHO That was a wait, now for the version:
+VER
+SET var 1
+ECHO Variable: %var%
+CLEARVAR
+ECHO variables were cleared
